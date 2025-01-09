@@ -1,0 +1,11 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "description": "Buy groceries",
+            "status": "done",
+            "createdAt": "2025-01-08T11:41:12.867126",
+            "updatedAt": "2025-01-08T11:41:50.149740"
+        }
+    ]
+}
