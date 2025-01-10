@@ -1,4 +1,4 @@
-https://github.com/ducvotm/task_tracker.git
+https://roadmap.sh/projects/task-tracker
 
 # Task CLI
 
